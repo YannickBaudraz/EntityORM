@@ -1,0 +1,24 @@
+{
+    "name": "ycliff/entity-orm",
+    "description": "A basic ORM to use in PHP projects.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "YCliff\\EntityORM\\": "src/",
+            "YCliff\\Test\\EntityORM\\": "test/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yannick Baudraz",
+            "email": "YannickBaudrazDev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
