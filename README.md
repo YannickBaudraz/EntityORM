@@ -1,8 +1,8 @@
 # EntityORM
 
-EntityORM is a basic ORM to use in PHP projects.
+![](https://img.shields.io/packagist/v/ycliff/entity-orm?style=for-the-badge)
 
-## Requirements
+EntityORM is a basic ORM to use in PHP projects.
 
 ## Installation
 
