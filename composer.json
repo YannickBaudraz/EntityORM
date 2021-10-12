@@ -2,6 +2,7 @@
     "name": "ycliff/entity-orm",
     "description": "A basic ORM to use in PHP projects.",
     "type": "library",
+    "version": "0.1",
     "autoload": {
         "psr-4": {
             "YCliff\\EntityORM\\": "src/",
